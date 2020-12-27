@@ -1,0 +1,12 @@
+[submodule "sudoku-master"]
+	path = sudoku-master
+	url = git@github.com:course-se/sudoku-master
+[submodule "sudokuApi"]
+	path = sudokuApi
+	url = git@github.com:course-se/sudokuApi
+[submodule "sudoku-arena"]
+	path = sudoku-arena
+	url = git@github.com:course-se/sudoku-arena
+[submodule "Sudoku-generation"]
+	path = Sudoku-generation
+	url = git@github.com:course-se/Sudoku-generation
